@@ -1,0 +1,16 @@
+C:\Users\103585238\Projects\C#ChallengeOne\bin\Debug\net5.0\C#ChallengeOne.exe
+C:\Users\103585238\Projects\C#ChallengeOne\bin\Debug\net5.0\C#ChallengeOne.deps.json
+C:\Users\103585238\Projects\C#ChallengeOne\bin\Debug\net5.0\C#ChallengeOne.runtimeconfig.json
+C:\Users\103585238\Projects\C#ChallengeOne\bin\Debug\net5.0\C#ChallengeOne.runtimeconfig.dev.json
+C:\Users\103585238\Projects\C#ChallengeOne\bin\Debug\net5.0\C#ChallengeOne.dll
+C:\Users\103585238\Projects\C#ChallengeOne\bin\Debug\net5.0\ref\C#ChallengeOne.dll
+C:\Users\103585238\Projects\C#ChallengeOne\bin\Debug\net5.0\C#ChallengeOne.pdb
+C:\Users\103585238\Projects\C#ChallengeOne\obj\Debug\net5.0\C#ChallengeOne.csprojAssemblyReference.cache
+C:\Users\103585238\Projects\C#ChallengeOne\obj\Debug\net5.0\C#ChallengeOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103585238\Projects\C#ChallengeOne\obj\Debug\net5.0\C#ChallengeOne.AssemblyInfoInputs.cache
+C:\Users\103585238\Projects\C#ChallengeOne\obj\Debug\net5.0\C#ChallengeOne.AssemblyInfo.cs
+C:\Users\103585238\Projects\C#ChallengeOne\obj\Debug\net5.0\C#ChallengeOne.csproj.CoreCompileInputs.cache
+C:\Users\103585238\Projects\C#ChallengeOne\obj\Debug\net5.0\C#ChallengeOne.dll
+C:\Users\103585238\Projects\C#ChallengeOne\obj\Debug\net5.0\ref\C#ChallengeOne.dll
+C:\Users\103585238\Projects\C#ChallengeOne\obj\Debug\net5.0\C#ChallengeOne.pdb
+C:\Users\103585238\Projects\C#ChallengeOne\obj\Debug\net5.0\C#ChallengeOne.genruntimeconfig.cache
